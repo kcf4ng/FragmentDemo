@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fragment Demo</string>
+    <string name="btn1">Fragment in Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="workout_description">Description</string>
+    <string name="workout_title">Title</string>
+    <string name="btn2">Activity interact w/ Fragment</string>
+    <string name="btn3">List Fragment</string>
+    <string name="btn4">listFragment act to next activity w/ fragment</string>
+    <string name="btn5">back stack and orientation</string>
+    <string name="btn6">Fragment Sum</string>
+</resources>
